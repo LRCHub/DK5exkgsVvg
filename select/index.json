@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "RISE UP",
+  "base_artist": "NiziU",
+  "createdAt": "2026-03-13T12:19:10.714759Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rise Up In Love",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_Rise_Up_In_Love_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Éirigh Suas a Stóirín (Rise up My Love)",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/02_Éirigh_Suas_a_Stóirín_(Rise_up_My_Love)_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Low Leaf",
+      "has_synced": false,
+      "path": "select/03_Rise_Up_Low_Leaf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "The Black Dog",
+      "has_synced": false,
+      "path": "select/04_Rise_Up_The_Black_Dog.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Cypress Hill feat. Tom Morello",
+      "has_synced": true,
+      "path": "select/05_Rise_Up_Cypress_Hill_feat._Tom_Morello.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rise Up (feat. Tom Morello)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/06_Rise_Up_(feat._Tom_Morello)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rise Up and Fight",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": true,
+      "path": "select/07_Rise_Up_and_Fight_Crippled_Black_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Rise Up",
+      "artist": "David Lynch",
+      "has_synced": true,
+      "path": "select/08_She_Rise_Up_David_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": false,
+      "path": "select/09_Rise_Up_Yngwie_J._Malmsteen’s_Rising_Force.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/10_Rise_Up_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Freedom Call",
+      "has_synced": true,
+      "path": "select/11_Rise_Up_Freedom_Call.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rise Up With Fists!!",
+      "artist": "Jenny Lewis",
+      "has_synced": true,
+      "path": "select/12_Rise_Up_With_Fists!!_Jenny_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rise up with Fists!",
+      "artist": "Jenny Lewis",
+      "has_synced": true,
+      "path": "select/13_Rise_up_with_Fists!_Jenny_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/14_Rise_Up_Testament.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/15_Rise_Up_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/16_Rise_Up_Skunk_Anansie.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rise Up",
+      "artist": "Roni Size feat. Sweetie Irie",
+      "has_synced": false,
+      "path": "select/17_Rise_Up_Roni_Size_feat._Sweetie_Irie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RISE UP",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_RISE_UP_NiziU.txt"
+    }
+  ]
+}
